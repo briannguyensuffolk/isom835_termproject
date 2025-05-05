@@ -32,3 +32,14 @@ This project uses the following tools and libraries:
 - **Scikit-learn** for predictive modeling (Logistic Regression, Random Forest).
 - **Matplotlib/Seaborn** for data visualization.
 - **Google Colab** for running the notebook and sharing results.
+
+## How to run the Project
+Open the notebook in Google Colab
+
+[Google Colab](https://colab.research.google.com/drive/1m8iyeLipGk9hnwYUb-QR_7IFKxN-wJry?usp=drive_link) 
+
+## Final Report
+
+The detailed analysis and results of the project are documented in the final report.
+
+[Download Final Report (PDF)](https://drive.google.com/file/d/1b41knILgKYf9hAe3LilmTXV1EHbe3fJ6/view?usp=drive_link)
