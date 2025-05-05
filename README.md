@@ -1,5 +1,5 @@
 # Smart Logistics Dataset Analysis and Predictive Modeling
-I selected smart_logistics_dataset and apply the entire predictive analytics workflow, including data exploration, cleaning, business question formulation, model building, and insight generation. This project simulates real-world scenarios and will help me develop practical skills in data analytics.
+I selected a smart_logistics_dataset file from Kaggle and apply the entire predictive analytics workflow, including data exploration, cleaning, business question formulation, model building, and insight generation. This project simulates real-world scenarios and will help me develop practical skills in data analytics.
 
 ## Objective
 - Analyze factors influencing logistics delays, such as traffic, waiting time, and inventory levels.
@@ -34,9 +34,11 @@ This project uses the following tools and libraries:
 - **Google Colab** for running the notebook and sharing results.
 
 ## How to run the Project
-Open the notebook in Google Colab
+1. Open the notebook in Google Colab
 
 [Google Colab](https://colab.research.google.com/drive/1m8iyeLipGk9hnwYUb-QR_7IFKxN-wJry?usp=drive_link) 
+
+2. The notebook will generate visualizations (e.g., histograms, scatter plots) and display the results of your predictive models.
 
 ## Final Report
 
